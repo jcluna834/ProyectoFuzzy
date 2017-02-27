@@ -1,0 +1,9 @@
+30;red;rojo
+31;green;verde
+32;blue;azul
+33;black;negro
+34;brown;cafe
+35;gray;gris
+36;orange;naranja
+37;purple;morado
+38;yellow;amarillo
